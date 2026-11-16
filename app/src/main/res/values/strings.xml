@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MicaStamp</string>
+    <string name="title_activity_main">MicaStamp</string>
+    <string name="package_name">com.terrastamp.geocamera</string>
+    <string name="custom_url_scheme">com.terrastamp.geocamera</string>
+</resources>
